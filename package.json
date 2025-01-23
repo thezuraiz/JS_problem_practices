@@ -1,10 +1,10 @@
 {
   "name": "js_practices",
   "version": "1.0.0",
-  "main": "sort.js",
+  "main": "reverse_string.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node sort.js"
+    "dev": "node reverse_string.js"
   },
   "keywords": [],
   "author": "",
